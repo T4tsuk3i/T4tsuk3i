@@ -47,12 +47,4 @@ Old ones had my real name all over them, and honestly, this feels better.
 
 ---
 
-## 💬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![Email](https://img.shields.io/badge/Email-darkred?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
-(I don’t post much, but feel free to reach out)
-
----
-
 > _"Everything can be reverse engineered — even expectations."_ 💥

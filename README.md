@@ -11,6 +11,13 @@ Also, I cycle. A lot. And no matter how I crunch the stats, **Tadej Pogačar** s
 
 ---
 
+## 🔄 Fresh Start
+
+This is a **new account** — just wanted a clean slate without clutter.  
+Old ones had my real name all over them, and honestly, this feels better.
+
+---
+
 ## 🔭 Currently Working On
 
 - 🧠 Building a local AI assistant for my home —  

@@ -86,11 +86,17 @@ Currently jamming on Spotify:
 ---
 
 ## 💬 Words to Live (and Hack) By  
-> "_Wubba Lubba Dub Dub!_" — *Rick Sanchez*  
-> "_You know, I learned something today..._" — *Stan Marsh*  
-> "_The best hackers don’t use 0days. They use 0trust._" — Jack Rhysider, *Darknet Diaries*
 
-> _"Everything can be reverse engineered — even expectations."_ 💥  
+> 💬 "**Wubba Lubba Dub Dub!**"  
+> — *Rick Sanchez*  
+
+> 💬 "**You know, I learned something today...**"  
+> — *Stan Marsh*  
+
+> 💬 "**The best hackers don’t use 0days. They use 0trust.**"  
+> — Jack Rhysider, *Darknet Diaries*
+
+> 💥 _"Everything can be reverse engineered — even expectations."_
 
 ---
 

@@ -7,62 +7,71 @@
 ---
 
 # 👾 Hey, I’m T4tsuk3i  
-*Turning fun stuff boring since forever* — Automating everything that moves 🛠️
+*Turning fun stuff boring since forever... and loving every second of it* 🛠️
 
-I’m passionate about **cybersecurity**, but don’t expect tool dumps here — I’m carving my own path. Recently, I dove headfirst into **LLMs**, pushing their limits to explore what they *shouldn’t* do. Oh, and cycling? Yeah, I do that a lot — but Tadej Pogačar keeps outsmarting every model I throw at him. 🚴‍♂️🧠📉
+A relentless **cybersecurity researcher**, automating everything that moves (and most things that don’t).  
+I don’t just follow the scripts—I write my own rules. My journey through **LLMs** is filled with experiments that push boundaries and break molds. When unplugged, you’ll find me cycling hard, chasing how **Tadej Pogačar** keeps outpacing every model I analyze. Spoiler alert: he’s undefeated. 🚴‍♂️🧠📉
 
-> 💙 Deeply invested in empowering kids through NGOs like **[U&I](https://uandi.org.in/)** and **[Make A Difference](https://makeadiff.in/)**  
-> 🐧 Proud Arch Linux enthusiast, always ready for a terminal challenge
-
----
-
-## 🧼 Fresh Start  
-This is a **brand new account** — pure, clean, and optimized for chaotic creativity and curiosity. No clutter, just forward-thinking projects and experiments.
+> 💙 Empowering kids through NGOs like **[U&I](https://uandi.org.in/)** and **[Make A Difference](https://makeadiff.in/)**  
+> 🐧 Arch Linux fanatic — embracing complexity with elegance
 
 ---
 
-## 🔭 What I’m Building Now  
-- 🧠 A local AI assistant (think Neuro-sama... but snarkier and smarter)  
-- 🧰 Diving deep into OSINT with memory persistence experiments  
-- 🎮 Battling the endless loop of feature creep (and losing, sometimes)
+## 🧼 A Fresh Canvas  
+This account marks a reboot—no legacy noise, no baggage. Pure, focused, and crafted for exploration and innovation.
 
 ---
 
-## 🎧 Currently Jamming on Spotify  
+## 🔭 What’s Brewing in the Lab?  
+My current projects include:  
+- 🧠 Building an AI assistant that’s as sharp as it is snarky—think Neuro-sama, but with extra edge.  
+- 🧰 Delving into OSINT with memory persistence that connects the dots across time and tech.  
+- 🎮 Battling feature creep like it's a boss fight—because perfection is a moving target, and I’m always dodging.
+
+*Got ideas? Feel free to reach out or collaborate!*
+
+---
+
+## 🎧 Soundtrack of My Code  
+Currently jamming on Spotify:  
 [![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vaishakkunder&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
-## 🧠 Skillset Breakdown  
-| Areas                      | Tools & Languages              | Interests                     |
+## 🧠 Skills at a Glance  
+| Core Strengths              | Tools & Languages              | Passions                      |
 |----------------------------|-------------------------------|-------------------------------|
-| 🛠️ Automation Architect    | 🐍 Python, Bash, C++           | 💻 Arch Linux                 |
-| 🤖 AI Assistants           | 🧰 Ghidra, IDA Pro             | 🧠 Neuro-symbolic AI          |
-| 🔒 Web Exploitation        | 🚀 GitHub Actions              | 🔍 OSINT & Red Teaming         |
-| ⚙️ Reverse Engineering     | 🧩 LLM Internals               | 📚 Prompt Engineering         |
+| 🔧 Automation Architect     | 🐍 Python, Bash, C++           | 🐧 Arch Linux                 |
+| 🤖 AI Assistant Developer  | 🧰 Ghidra, IDA Pro             | 🧠 Neuro-symbolic AI blends   |
+| 🔒 Web Exploitation        | 🚀 GitHub Actions              | 🔍 OSINT & Red Team Simulations |
+| ⚙️ Reverse Engineering      | 🧩 LLM Internals               | 📚 Prompt Engineering         |
 
 ---
 
-## 📌 Featured Project  
-- 📊 [DatumTrace](https://github.com/T4tsuk3i/DatumTrace) — observability for structured data pipelines and model input/output flows, designed to illuminate your data journey.
+## ⭐ Spotlight: DatumTrace  
+- 📊 [DatumTrace](https://github.com/T4tsuk3i/DatumTrace) — A next-level observability tool designed to illuminate the flow of structured data pipelines and model IO, bringing clarity to complexity.
+
+*Explore, star, or contribute!*
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 Achievements & Badges  
 <p align="center">
   [![T4tsuk3i's Trophies](https://github-profile-trophy.vercel.app/?username=T4tsuk3i&theme=tokyonight&column=4&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Pulse  
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=T4tsuk3i&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4tsuk3i&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=T4tsuk3i&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
   [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=T4tsuk3i&bg_color=0d1117&color=4CAF50&line=4CAF50&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
@@ -76,13 +85,14 @@ This is a **brand new account** — pure, clean, and optimized for chaotic creat
 
 ---
 
-## 🧠 CyberQuotes  
+## 💬 Words to Live (and Hack) By  
 > "_Wubba Lubba Dub Dub!_" — *Rick Sanchez*  
 > "_You know, I learned something today..._" — *Stan Marsh*  
 > "_The best hackers don’t use 0days. They use 0trust._" — Jack Rhysider, *Darknet Diaries*
 
-> _"Everything can be reverse engineered — even expectations."_ 💥
+> _"Everything can be reverse engineered — even expectations."_ 💥  
 
 ---
 
-<!-- Add GitHub Actions workflow file to keep dynamic elements fresh (Spotify, quotes, stats) -->
+
+

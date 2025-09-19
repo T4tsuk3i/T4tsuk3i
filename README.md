@@ -57,30 +57,30 @@ Currently jamming on Spotify:
 
 ## 🏆 Achievements & Badges  
 <p align="center">
-  [![T4tsuk3i's Trophies](https://github-profile-trophy.vercel.app/?username=T4tsuk3i&theme=tokyonight&column=4&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-profile-trophy.vercel.app/?username=T4tsuk3i&theme=tokyonight&column=4&margin-w=10&margin-h=15" alt="T4tsuk3i's GitHub Trophies" />
 </p>
 
 ---
 
 ## 📈 GitHub Pulse  
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=T4tsuk3i&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4tsuk3i&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=T4tsuk3i&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4tsuk3i&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T4tsuk3i&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T4tsuk3i&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=T4tsuk3i&bg_color=0d1117&color=4CAF50&line=4CAF50&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=T4tsuk3i&bg_color=0d1117&color=4CAF50&line=4CAF50&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 ## 🧿 Visitor Count  
 <p align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=T4tsuk3i&style=flat-square&color=4CAF50)
+  <img src="https://komarev.com/ghpvc/?username=T4tsuk3i&style=flat-square&color=4CAF50" alt="Visitor Count" />
 </p>
 
 ---
@@ -94,5 +94,4 @@ Currently jamming on Spotify:
 
 ---
 
-
-
+<!-- Pro Tip: Keep this README vibrant with dynamic content updates through GitHub Actions (Spotify, quotes, stats) -->

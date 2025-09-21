@@ -41,7 +41,7 @@ Currently jamming on Spotify:
 ## 🧠 Skills at a Glance  
 | Core Strengths              | Tools & Languages              | Passions                      |
 |----------------------------|-------------------------------|-------------------------------|
-| 🔧 Automation Architect     | 🐍 Python, Bash, C++           | 🐧 Arch Linux                 |
+| 🔧 Automation Architect     | 🐍 Python, Bash, C++,Java     | 🐧 Arch Linux                 |
 | 🤖 AI Assistant Developer  | 🧰 Ghidra, IDA Pro             | 🧠 Neuro-symbolic AI blends   |
 | 🔒 Web Exploitation        | 🚀 GitHub Actions              | 🔍 OSINT & Red Team Simulations |
 | ⚙️ Reverse Engineering      | 🧩 LLM Internals               | 📚 Prompt Engineering         |

@@ -1,7 +1,7 @@
 <img src="./header.png" alt="T4tsuk3i banner" width="100%" />
 
 <p align="center">
-  <img src="./pixel1.gif" alt="pixel art" width="600" />
+  <img src="./pixel1.gif" alt="pixel art" width="200" />
 </p>
 
 <p align="center">

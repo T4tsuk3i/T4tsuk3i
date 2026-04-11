@@ -1,16 +1,20 @@
 <img src="./header.png" alt="T4tsuk3i banner" width="100%" />
 
 <p align="center">
+  <img src="./pixel1.gif" alt="pixel art" width="600" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Research.;Like+taking+stuff+apart.;Gamer+on+low+latency.;Building+The+Proverbial+FRIDAY.;Always+learning+something+out+of+this+world.&font=Fira+Code&center=true&width=600&height=45&color=4CAF50&vCenter=true&pause=1000&size=20" />
 </p>
 
 ---
 
-# 👾 Hey, I’m T4tsuk3i  
+# 👾 Hey, I'm T4tsuk3i  
 *Turning fun stuff boring since forever... and loving every second of it* 🛠️
 
-A relentless **cybersecurity researcher**, automating everything that moves (and most things that don’t).  
-I don’t just follow the scripts—I write my own rules. My journey through **LLMs** is filled with experiments that push boundaries and break molds. When unplugged, you’ll find me cycling hard, chasing how **Tadej Pogačar** keeps outpacing every model I analyze. Spoiler alert: he’s undefeated. 🚴‍♂️🧠📉
+A relentless **cybersecurity researcher**, automating everything that moves (and most things that don't).  
+I don't just follow the scripts—I write my own rules. My journey through **LLMs** is filled with experiments that push boundaries and break molds. When unplugged, you'll find me cycling hard, chasing how **Tadej Pogačar** keeps outpacing every model I analyze. Spoiler alert: he's undefeated. 🚴‍♂️🧠📉
 
 > 💙 Empowering kids through NGOs like **[U&I](https://uandi.org.in/)** and **[Make A Difference](https://makeadiff.in/)**  
 > 🐧 Arch Linux fanatic — embracing complexity with elegance
@@ -22,11 +26,11 @@ This account marks a reboot—no legacy noise, no baggage. Pure, focused, and cr
 
 ---
 
-## 🔭 What’s Brewing in the Lab?  
+## 🔭 What's Brewing in the Lab?  
 My current projects include:  
-- 🧠 Building an AI assistant that’s as sharp as it is snarky—think Neuro-sama, but with extra edge.  
+- 🧠 Building an AI assistant that's as sharp as it is snarky—think Neuro-sama, but with extra edge.  
 - 🧰 Delving into OSINT with memory persistence that connects the dots across time and tech.  
-- 🎮 Battling feature creep like it's a boss fight—because perfection is a moving target, and I’m always dodging.
+- 🎮 Battling feature creep like it's a boss fight—because perfection is a moving target, and I'm always dodging.
 
 *Got ideas? Feel free to reach out or collaborate!*
 
@@ -93,7 +97,7 @@ Currently jamming on Spotify:
 > 💬 "**You know, I learned something today...**"  
 > — *Stan Marsh*  
 
-> 💬 "**The best hackers don’t use 0days. They use 0trust.**"  
+> 💬 "**The best hackers don't use 0days. They use 0trust.**"  
 > — Jack Rhysider, *Darknet Diaries*
 
 > 💥 _"Everything can be reverse engineered — even expectations."_

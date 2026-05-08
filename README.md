@@ -16,7 +16,7 @@
 A relentless **cybersecurity researcher**, automating everything that moves (and most things that don't).  
 I don't just follow the scripts—I write my own rules. My journey through **LLMs** is filled with experiments that push boundaries and break molds. When unplugged, you'll find me cycling hard, chasing how **Tadej Pogačar** keeps outpacing every model I analyze. Spoiler alert: he's undefeated. 🚴‍♂️🧠📉
 
-> 💙 Empowering kids through NGOs like **[U&I](https://uandi.org.in/)** and **[Make A Difference](https://makeadiff.in/)**  
+> 💙 Empowering kids through NGO  **[Make A Difference](https://makeadiff.in/)**  
 > 🐧 Arch Linux fanatic — embracing complexity with elegance
 
 ---

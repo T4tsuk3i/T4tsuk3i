@@ -36,14 +36,6 @@ Just projects, experiments, ideas, and whatever I'm curious about next.
 
 ## 🧪 What's Brewing?
 
-### 🌅 Project Sunrise
-
-A community-driven effort to preserve and explore an old build of *Destiny 2* through reverse engineering.
-
-Load into destinations, recreate missions, explore the world, experiment with game systems, and learn how the engine works along the way.
-
-**[Project Sunrise →](https://github.com/T4tsuk3i/Sunrise-T4tsuk3i)**
-
 ### 🧠 AI Experiments
 
 Building and experimenting with AI systems, local LLMs, assistants, memory, and everything surrounding them.
@@ -62,25 +54,29 @@ Experimenting with Linux, system configuration, self-hosting, development enviro
 
 **Languages:**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="44" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=c" height="44" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="44" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=rust" height="44" alt="Rust" />
+  <img src="https://skillicons.dev/icons?i=lua" height="44" alt="Lua" />
+  <img src="https://skillicons.dev/icons?i=java" height="44" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="44" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=bash" height="44" alt="Bash" />
+</p>
 
 **Tools & Environments:**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-%23222222?style=for-the-badge&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA%20Pro-%23EF2D5E?style=for-the-badge&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" height="44" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=fedora" height="44" alt="Fedora" />
+  <img src="https://skillicons.dev/icons?i=vim" height="44" alt="Vim" />
+  <img src="https://skillicons.dev/icons?i=git" height="44" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="44" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=cmake" height="44" alt="CMake" />
+  <img src="https://skillicons.dev/icons?i=ghidra" height="44" alt="Ghidra" />
+  <img src="https://skillicons.dev/icons?i=ida" height="44" alt="IDA Pro" />
+</p>
 
 | 🔧 Areas             | 💻 Languages & Technologies | 🎯 Interests        |
 | -------------------- | --------------------------- | ------------------- |
@@ -125,7 +121,7 @@ My personal **blog** — a **Quartz**-powered site that turns a folder of markdo
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=T4tsuk3i&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="T4tsuk3i GitHub statistics" />
 
-<img height="210em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=T4tsuk3i&langs_count=6&theme=dark" alt="Most used languages" />
+<img width="345" height="375" src="https://github-stats-extended.vercel.app/api/top-langs/?username=T4tsuk3i&langs_count=6&theme=dark" alt="Most used languages" />
 
 ---
 
@@ -139,12 +135,17 @@ I'm around on [GitHub](https://github.com/T4tsuk3i) — usually mid-way through 
 
 ## 💬 Words to Live By
 
-> [!IMPORTANT]
-> **"Guardians make their own fate."** — *Destiny*
->
-> **"Everything can be reverse engineered — even expectations."**
->
-> **"You know, I learned something today..."** — *Stan Marsh*
+<p align="center">
+  💬 <b>"Guardians make their own fate."</b> — <i>Destiny</i>
+</p>
+
+<p align="center">
+  💥 <b>"Everything can be reverse engineered — even expectations."</b>
+</p>
+
+<p align="center">
+  🧊 <b>"You know, I learned something today..."</b> — <i>Stan Marsh</i>
+</p>
 
 ---
 

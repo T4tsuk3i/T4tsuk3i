@@ -112,37 +112,20 @@ A personal/community preservation project focused on exploring and reconstructin
 
 **[tattva-kensho](https://github.com/T4tsuk3i/tattva-kensho)**
 
-My personal **blog** — a place for notes, things I've learned, experiments, ideas, and whatever else I feel like writing about.
+My personal **blog** — a **Quartz**-powered site that turns a folder of markdown notes into a static website. A place for notes, things I've learned, experiments, ideas, and whatever else I feel like writing about.
 
 **[Read the blog →](https://t4tsuk3i.github.io/tattva-kensho/)**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white)
-
-### 📊 DatumTrace
-
-**[DatumTrace](https://github.com/T4tsuk3i/DatumTrace)**
-
-Experiments around structured data, pipelines, and model I/O.
-
----
-
-## 🎧 Soundtrack of My Code
-
-Currently listening on Spotify:
-
-[![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vaishakkunder&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
+![Quartz](https://img.shields.io/badge/Quartz-%234D4D4D.svg?logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=T4tsuk3i&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="T4tsuk3i GitHub statistics" />
-</p>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=T4tsuk3i&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="T4tsuk3i GitHub statistics" />
 
-<p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=T4tsuk3i&langs_count=6&theme=dark" alt="Most used languages" />
-</p>
+<img height="210em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=T4tsuk3i&langs_count=6&theme=dark" alt="Most used languages" />
 
 ---
 
@@ -156,15 +139,12 @@ I'm around on [GitHub](https://github.com/T4tsuk3i) — usually mid-way through 
 
 ## 💬 Words to Live By
 
-> **"Guardians make their own fate."**
+> [!IMPORTANT]
+> **"Guardians make their own fate."** — *Destiny*
 >
-> — *Destiny*
-
 > **"Everything can be reverse engineered — even expectations."**
-
-> **"You know, I learned something today..."**
 >
-> — *Stan Marsh*
+> **"You know, I learned something today..."** — *Stan Marsh*
 
 ---
 

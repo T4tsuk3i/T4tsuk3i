@@ -101,11 +101,11 @@ A personal/community preservation project focused on exploring and reconstructin
 
 ### 📝 tattva-kensho
 
-**[tattva-kensho](https://github.com/T4tsuk3i/tattva-kensho)**
+**[tattva-kensho](https://github.com/T4tsuk3i/T4tsuk3i.github.io)**
 
 My personal **blog** — a **Quartz**-powered site that turns a folder of markdown notes into a static website. A place for notes, things I've learned, experiments, ideas, and whatever else I feel like writing about.
 
-**[Read the blog →](https://t4tsuk3i.github.io/tattva-kensho/)**
+**[Read the blog →](https://t4tsuk3i.github.io/)**
 
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 ![Quartz](https://img.shields.io/badge/Quartz-%234D4D4D.svg?logoColor=white)

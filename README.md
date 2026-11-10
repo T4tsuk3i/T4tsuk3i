@@ -34,7 +34,21 @@ Just projects, experiments, ideas, and whatever I'm curious about next.
 
 ---
 
-## 🧪 What's Brewing?
+## 🔨 Currently Working On
+
+### 📓 Project Smriti
+
+**[Project Smriti](https://github.com/T4tsuk3i/Project-Smriti)** — an Android-first, local-first journal built with Tauri 2, Svelte 5, and Rust. The UI and local data layer work; the SQLite core and on-device model are next.
+
+### 🌅 Project Sunrise
+
+**[Project Sunrise](https://github.com/T4tsuk3i/Sunrise-T4tsuk3i)** — a Destiny 2 offline preservation mod in C++ and Lua, focused on keeping old destinations and missions playable.
+
+*Last updated: November 2026.*
+
+---
+
+## 🧪 Areas I Keep Coming Back To
 
 ### 🧠 AI Experiments
 

@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Eyes+up%2C+Guardian.;Guardians+make+their+own+fate.;Whether+we+wanted+it+or+not...+we%27ve+got+work+to+do.;If+the+Vex+can%27t+simulate+you%2C+you%27re+doing+something+right.;Building.+Breaking.+Learning.+Repeating.;Always+learning+something+new+out+of+this+world.&font=Fira+Code&center=true&width=650&height=45&color=4CAF50&vCenter=true&pause=1000&size=20" alt="Typing animation" />
 </p>
 
+<p align="center">
+  <a href="https://t4tsuk3i.github.io/blog/"><b>✦ Read the notebook → t4tsuk3i.github.io/blog</b></a>
+</p>
+
 ---
 
 # 👾 Hey, I'm T4tsuk3i

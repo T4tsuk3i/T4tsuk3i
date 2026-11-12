@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t4tsuk3i.github.io/blog/"><b>✦ Read the notebook → t4tsuk3i.github.io/blog</b></a>
+  <a href="https://t4tsuk3i.github.io/blog/"><b>Read the notebook &rarr; t4tsuk3i.github.io/blog</b></a>
 </p>
 
 ---
